@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>My Site Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>My Site Blog</description>
+        <lastBuildDate>Fri, 12 Nov 2021 23:28:32 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hype Cycle]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/HypeCycle.mdx</link>
+            <guid>HypeCycle.mdx</guid>
+            <pubDate>Fri, 12 Nov 2021 23:28:32 GMT</pubDate>
+            <description><![CDATA[Version 0.1.0]]></description>
+            <content:encoded><![CDATA[<h2>Version 0.1.0</h2><p>I am an Electronics and Software Engineer specializing in  hardware and software technology disciplines</p><p>I have decades of hands-on experience with some of the ever changing Electronic, Internet, and Software technologies. I have a passion pursuing what’s new and improved with these industries. </p><p>Checking out what’s new or not, a pipe dream or not, or what’s new and improved, is like panning for gold. Buried within the mountains of info rubble produced daily, every so often one finds interesting technology nuggets making the effort worthwhile.</p><p>The Electronic, Internet, and Software industries are probably the fastest changing endeavors mankind has ever created. The half life of many  products making it to market are relatively short. There are some very short lived  and some that were just vapor. </p><p>The Hype Cycle helps separate reality from fiction.</p><p><img src="/img/images/HypeCycle.png" alt="Hype Cycle"/></p><p>The  Hype Cycle points of interest   are:</p><ul><li><p>Technology Trigger<br/>
+<!-- -->A potential technology breakthrough happens.</p></li><li><p>Peak of Inflated Expectations<br/>
+<!-- -->Early publicity produces a number of success stories and often accompanied by stories of failures. Some companies may take defect corrective action but most don’t.</p></li><li><p>Trough of Disillusionment<br/>
+<!-- -->Interest wanes as experiments and implementations fail to deliver on the hype.</p></li><li><p>Slope of Enlightenment<br/>
+<!-- -->Technology consumers begin to understand the technology better and how it may benefit them.</p></li><li><p>Plateau of Productivity<br/>
+<!-- -->Mainstream adoption starts to take off.</p></li></ul><p>The few technologies that make it to the Plateau of Productivity, some may be doomed  to the spiral of death by inattention to details for keeping products alive</p><hr/>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TechTalkJohn]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/techTalkBack.mdx</link>
+            <guid>techTalkBack.mdx</guid>
+            <pubDate>Fri, 12 Nov 2021 21:46:39 GMT</pubDate>
+            <description><![CDATA[Docusaurus]]></description>
+            <content:encoded><![CDATA[<h2>Docusaurus</h2><p>TechTalkJohn is built  using using <a href="https://docusaurus.io">Docusaurus</a> , and hosted on <a href="https://vercel.com/home">Vercel</a>.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
